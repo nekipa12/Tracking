@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\95165303ed82c295ed9669fe35ab29c436589d6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_3809a92a5f229de1e972d6dba45f736ffc6201b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\021cfc2c608b3af792eac6fcc4e4e3e3feea14ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_91d037612729088d4eb7144b2b4643cc7a226717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\621276580f7a0a4c03aa3f3f312dbdaa81a5a730\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_ffb358501d51d8fd72624c0e5b11608284634d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\49d7fc524b52b346b2fbd63d9bd30b9809cbd2df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_41350d19721801c98dfdc234506d88a5b8df8bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\effe96a290ccfb3693ba98eefa9ca666c5f89377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_227fca06ddb83243ba5c1d77d51276e0482b5570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\9d316573c76789c7f951d9fc205ca88b3f51af5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_15b7c4c956f254d9fc3129892a7105e75b5a3141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Val\.android\build-cache\00a7671efd112d9c6595b35ca215162a60e874fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Projects\FireBaseMap\app\build\intermediates\pre-dexed\debug\classes_dd8bc92fdf265bec5576b9f2c41c513d16ee0f3d.jar" />
+    </item>
+
+</items>

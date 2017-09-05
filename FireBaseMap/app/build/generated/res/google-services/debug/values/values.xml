@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">816456241041-75vn3evkko30l5visemps1ul68t991tv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-map-84b24.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">816456241041</string>
+    <string name="google_api_key" translatable="false">AIzaSyBG2llw16fi_pXtqUfGfn1UP_8Bdrlen78</string>
+    <string name="google_app_id" translatable="false">1:816456241041:android:ed94780c89f9955c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBG2llw16fi_pXtqUfGfn1UP_8Bdrlen78</string>
+    <string name="google_storage_bucket" translatable="false">fir-map-84b24.appspot.com</string>
+</resources>
